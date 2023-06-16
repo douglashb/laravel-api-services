@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'hello' => 'Hello',
+    'contact_us' => 'Contact us',
+    'terms_and_condition' => 'Privacy Policy ',
+    'contact_attempt' => 'If you have any problems with your account, please contact the Customer Service Center at ',
+    'alert_attempt' => 'If you did not request this change, contact the Customer Service Center immediately at',
+    'confidential_msg' => 'The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.',
+    'welcome_subject' => 'Welcome to :merchant',
+    'welcome_intro' => 'Now you can enjoy all services that we have available for you. We have sent you an activation code by :mode to activate your account. ',
+    'welcome_intro_code' => 'Now you can enjoy all services that we have available for you, please enter the next code for active your account:',
+    'welcome_support' => 'If you cannot activate your account contact the Customer Service Center at',
+    'lock_subject' => 'Account :merchant blocked',
+    'lock_title' => 'Your account has been blocked',
+    'lock_intro' => 'We inform you that your account has been locked for security because we detect 3 failed login attempts.',
+    'lock_extra' => 'To unlock your account you must use the Forgot Password feature and change your password.',
+    'forgot_subject' => 'Request Change Password',
+    'forgot_title' => 'Your :merchant code for change password.',
+    'forgot_intro' => 'You are receiving this e-mail because you requested a password change for your :merchant. Please enter the code below to choose a new password.',
+    'forgot_time' => 'The code is valid for 30 minutes.',
+    'password_changed_subject' => 'Password updated',
+    'password_changed_title' => 'Your password has been updated',
+    'password_changed_intro' => 'You are receiving this e-mail because you password has been updated for your :merchant account.',
+    'data_changed_subject' => 'Information updated',
+    'data_changed_title' => 'Your information has been updated',
+    'data_changed_intro' => 'You are receiving this e-mail because you personal information has been updated for your :merchant account.',
+];
